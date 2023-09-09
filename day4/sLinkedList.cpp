@@ -1,4 +1,4 @@
-#custom Queue implementation for AlgoXplorer tool 
+#custom singular linked list implementation for AlgoXplorer tool 
 #include <iostream>
 #include <vector>
 #include <algorithm>
